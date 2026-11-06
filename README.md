@@ -1,134 +1,193 @@
- <!-- Profile Banner -->
-<p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="MD Riyad GitHub Banner" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Md. Riyad</h1>
+<img src="assets/github-banner.png" width="100%" alt="MD. Riyad - Full-Stack Web Developer" />
 
-<h3 align="center">Junior Full-Stack Web Developer | Bangladesh 🇧🇩</h3>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+Love+Building+Web+Applications;Learning+Full-Stack+Development;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Diploma Student in Computer Science & Technology.
-- 💻 Passionate about Web Development.
-- 🌱 Currently improving my Full-Stack Development skills.
-- 🚀 Building real-world projects with modern technologies.
-- 🎯 Goal: Become a Professional Full-Stack Web Developer.
-- 📍 Based in Dhaka, Bangladesh.
-
----
-
-## 🛠️ Technologies & Skills
-
-### Frontend Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&height=45&lines=Hi%2C+I'm+Md.+Riyad+%F0%9F%91%8B;Junior+Full-Stack+Web+Developer;I+love+building+web+applications;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+  <a href="#-about"><img src="https://img.shields.io/badge/About-0A1A3F?style=flat-square&labelColor=0A1A3F&color=22D3EE" alt="About"/></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-0A1A3F?style=flat-square&labelColor=0A1A3F&color=22D3EE" alt="Tech Stack"/></a>
+  <a href="#-projects"><img src="https://img.shields.io/badge/Projects-0A1A3F?style=flat-square&labelColor=0A1A3F&color=22D3EE" alt="Projects"/></a>
+  <a href="#-stats"><img src="https://img.shields.io/badge/Stats-0A1A3F?style=flat-square&labelColor=0A1A3F&color=22D3EE" alt="Stats"/></a>
+  <a href="#-education"><img src="https://img.shields.io/badge/Education-0A1A3F?style=flat-square&labelColor=0A1A3F&color=22D3EE" alt="Education"/></a>
+  <a href="#-contact"><img src="https://img.shields.io/badge/Contact-0A1A3F?style=flat-square&labelColor=0A1A3F&color=22D3EE" alt="Contact"/></a>
 </p>
-
-### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <a href="https://fit-log-md-riyad.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Fit--Log-22D3EE?style=for-the-badge&logo=netlify&logoColor=0A1A3F&labelColor=0A1A3F" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/md-riyad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mdsalmansikder0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mdsalmansikder&label=Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-### Authentication
-- Better Auth
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About
 
-### 1. Fit-Log
-A Full-Stack Fitness and Workout Management Application.
+<div align="center">
 
-- Next.js
-- TypeScript
-- MongoDB
-- Better Auth
+<img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-0A1A3F?style=for-the-badge&labelColor=0A1A3F&color=22D3EE" alt="Location"/>
+<img src="https://img.shields.io/badge/💼_Junior_Full--Stack_Web_Developer-0A1A3F?style=for-the-badge&labelColor=0A1A3F&color=2F7BFF" alt="Role"/>
+<img src="https://img.shields.io/badge/🎓_Diploma_in_CST-0A1A3F?style=for-the-badge&labelColor=0A1A3F&color=22D3EE" alt="Education"/>
 
-🔗 [Live Website](https://fit-log-md-riyad.netlify.app)
+</div>
 
-💻 [GitHub Repository](https://github.com/mdsalmansikder/Fit-Log-md-riyad)
+<br/>
 
-### 2. Bazardor
-A Product Listing Web Application.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- Next.js
-- TypeScript
-- MongoDB
+```js
+// about.js
+const riyad = {
+  name: "Md. Riyad",
+  role: "Junior Full-Stack Web Developer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  education: "Diploma in Computer Science & Technology",
 
-### 3. BPL-Dream-project
-A personal development project.
+  focus: ["Next.js", "TypeScript", "Node.js", "MongoDB"],
+  currently: "Improving my Full-Stack skills",
+  building: "Real-world projects with modern tech",
+  goal: "Become a Professional Full-Stack Web Developer",
 
-### 4. Book-Vibe
-A personal development project.
+  motto: "Dream Big, Code Bigger.",
+};
+```
+
+</td>
+<td width="45%" valign="top">
+
+**🧑‍💻 What I do**
+
+- 🎨 Frontend Developer
+- ⚙️ Backend Developer
+- 🧩 Problem Solver
+- 📚 Lifelong Learner
+
+**🎯 Right now**
+
+- 🌱 Improving my Full-Stack skills
+- 🚀 Building real-world projects
+- 🏁 Working toward becoming a professional Full-Stack Web Developer
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> 💡 ***Dream Big, Code Bigger.***
+
+<img src="https://img.shields.io/badge/Code-22D3EE?style=flat-square&labelColor=0A1A3F"/>
+<img src="https://img.shields.io/badge/Build-2F7BFF?style=flat-square&labelColor=0A1A3F"/>
+<img src="https://img.shields.io/badge/Innovate-22D3EE?style=flat-square&labelColor=0A1A3F"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsalmansikder&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsalmansikder&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdsalmansikder&theme=tokyonight&hide_border=true" width="80%" />
-</p>
+<table>
+  <tr>
+    <td width="140"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend" />
+      &nbsp;<img src="https://img.shields.io/badge/Better_Auth-0A1A3F?style=for-the-badge&labelColor=0A1A3F&color=22D3EE" alt="Better Auth" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧰 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Contribution Activity
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ Fit-Log</h3>
+      <p>A full-stack fitness and workout management application.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Better_Auth-0A1A3F?style=flat-square"/>
+      </p>
+      <a href="https://fit-log-md-riyad.netlify.app">🔗 Live Website</a> &nbsp;•&nbsp;
+      <a href="https://github.com/mdsalmansikder/Fit-Log-md-riyad">💻 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Bazardor</h3>
+      <p>A product listing web application.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🏏 BPL-Dream-project</h3>
+      <p>A personal development project.</p>
+    </td>
+    <td valign="top">
+      <h3>📚 Book-Vibe</h3>
+      <p>A personal development project.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdsalmansikder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1A3F&title_color=22D3EE&icon_color=2F7BFF" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsalmansikder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1A3F&title_color=22D3EE" height="170" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=mdsalmansikder&theme=tokyonight&hide_border=true&background=0A1A3F&ring=22D3EE&fire=2F7BFF&currStreakLabel=22D3EE" width="85%" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsalmansikder&bg_color=0A1A3F&color=22D3EE&line=2F7BFF&point=FFFFFF&area=true&area_color=2F7BFF&hide_border=true" width="100%" alt="Contribution graph" />
+
+</div>
 
 ---
 
 ## 🎓 Education
 
 **Diploma in Computer Science & Technology**
-
-Infra Polytechnic Institute, Barishal
-
-Session: 2022–2023
+Infra Polytechnic Institute, Barishal &nbsp;•&nbsp; Session 2022–2023
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Contact
 
-<p align="left">
-  <a href="https://github.com/mdsalmansikder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mdsalmansikder0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-📧 Email: mdsalmansikder0@gmail.com
+<a href="https://github.com/mdsalmansikder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:mdsalmansikder0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/md-riyad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
----
+📧 mdsalmansikder0@gmail.com
 
-<p align="center">
-  <b>💙 Turning Ideas Into Digital Experiences.</b>
-  <br/>
-  <i>Keep Learning | Keep Building | Keep Growing 🚀</i>
-</p>
+**💙 Turning Ideas Into Digital Experiences.**
+*Keep Learning &nbsp;|&nbsp; Keep Building &nbsp;|&nbsp; Keep Growing 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:22D3EE&height=90&section=footer" width="100%" alt="footer" />
+
+</div>
