@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-banner.png" width="100%" alt="MD. Riyad - Full-Stack Web Developer" />
+<img src="WhatsApp Image 2026-11-06 at 9.29.32 PM.jpeg" width="100%" alt="MD. Riyad - Full-Stack Web Developer" />
 
 <br/>
 
